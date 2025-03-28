@@ -1,0 +1,7 @@
+streamlit
+selenium
+openai
+undetected-chromedriver
+python-dotenv
+webdriver-manager
+pdfplumber
